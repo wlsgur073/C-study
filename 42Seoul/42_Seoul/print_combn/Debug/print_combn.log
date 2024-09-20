@@ -1,0 +1,3 @@
+﻿  ft_print_combn.c
+C:\Projects\42_Seoul\print_combn\ft_print_combn.c(11,8): warning C4013: 'write' undefined; assuming extern returning int
+  print_combn.vcxproj -> C:\Projects\42_Seoul\Debug\print_combn.exe

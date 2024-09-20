@@ -1,0 +1,4 @@
+﻿  ft_atoi.c
+C:\Projects\42_Seoul\ft_atoi\ft_atoi.c(8,13): warning C4047: 'return': 'char' differs in levels of indirection from 'void *'
+C:\Projects\42_Seoul\ft_atoi\ft_atoi.c(26,18): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+  ft_atoi.vcxproj -> C:\Projects\42_Seoul\Debug\ft_atoi.exe

@@ -1,0 +1,3 @@
+﻿  memo.c
+C:\Projects\Rush02\testdebug\memo.c(74,8): warning C4013: 'write' undefined; assuming extern returning int
+  testdebug.vcxproj -> C:\Projects\Rush02\Debug\testdebug.exe

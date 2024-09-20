@@ -1,0 +1,7 @@
+﻿  ft_atoi_base.c
+C:\Projects\42_Seoul\ft_atoi_base\ft_atoi_base.c(8,13): warning C4047: 'return': 'char' differs in levels of indirection from 'void *'
+C:\Projects\42_Seoul\ft_atoi_base\ft_atoi_base.c(33,18): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Projects\42_Seoul\ft_atoi_base\ft_atoi_base.c(59,19): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Projects\42_Seoul\ft_atoi_base\ft_atoi_base.c(60,3): warning C4033: 'ft_atoi_base' must return a value
+C:\Projects\42_Seoul\ft_atoi_base\ft_atoi_base.c(86): warning C4715: 'ft_atoi_base': not all control paths return a value
+  ft_atoi_base.vcxproj -> C:\Projects\42_Seoul\Debug\ft_atoi_base.exe

@@ -1,0 +1,15 @@
+﻿  bsq.c
+C:\Projects\BSQ\BSQ\bsq.c(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Projects\BSQ\BSQ\bsq.c(36,9): warning C4013: 'write' undefined; assuming extern returning int
+C:\Projects\BSQ\BSQ\bsq.c(161,11): warning C4013: 'open' undefined; assuming extern returning int
+C:\Projects\BSQ\BSQ\bsq.c(165,7): warning C4013: 'read' undefined; assuming extern returning int
+C:\Projects\BSQ\BSQ\bsq.c(170,7): warning C4013: 'close' undefined; assuming extern returning int
+  map.c
+  Generating Code...
+main.obj : error LNK2005: _file_to_str already defined in bsq.obj
+main.obj : error LNK2005: _main already defined in bsq.obj
+map.obj : error LNK2005: _get_width already defined in bsq.obj
+map.obj : error LNK2005: _map_set already defined in bsq.obj
+map.obj : error LNK2005: _str_to_map already defined in bsq.obj
+map.obj : error LNK2005: _y_to_int already defined in bsq.obj
+C:\Projects\BSQ\Debug\BSQ.exe : fatal error LNK1169: one or more multiply defined symbols found

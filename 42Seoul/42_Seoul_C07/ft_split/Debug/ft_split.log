@@ -1,0 +1,3 @@
+﻿  ft_split.c
+C:\Projects\42_Seoul_C07\ft_split\ft_split.c(64,11): warning C4047: 'return': 'char **' differs in levels of indirection from 'char *'
+  ft_split.vcxproj -> C:\Projects\42_Seoul_C07\Debug\ft_split.exe

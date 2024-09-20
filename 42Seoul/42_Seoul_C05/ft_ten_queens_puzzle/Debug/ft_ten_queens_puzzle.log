@@ -1,0 +1,3 @@
+﻿  ft_ten_queens_puzzle.c
+C:\Projects\42_Seoul_C05\ft_ten_queens_puzzle\ft_ten_queens_puzzle.c(45): warning C4716: 'ft_ten_queens_puzzle': must return a value
+  ft_ten_queens_puzzle.vcxproj -> C:\Projects\42_Seoul_C05\Debug\ft_ten_queens_puzzle.exe

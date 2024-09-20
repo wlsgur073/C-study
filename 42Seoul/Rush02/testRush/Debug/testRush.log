@@ -1,0 +1,14 @@
+﻿  check.c
+  dict.c
+C:\Projects\Rush02\testRush\dict.c(64,18): warning C4013: 'open' undefined; assuming extern returning int
+C:\Projects\Rush02\testRush\dict.c(88,7): warning C4013: 'close' undefined; assuming extern returning int
+  othermain.c
+  read.c
+C:\Projects\Rush02\testRush\read.c(15,14): warning C4013: 'read' undefined; assuming extern returning int
+  rush.c
+  string.c
+  trim2.c
+  write.c
+C:\Projects\Rush02\testRush\write.c(5,7): warning C4013: 'write' undefined; assuming extern returning int
+  Generating Code...
+  testRush.vcxproj -> C:\Projects\Rush02\Debug\testRush.exe

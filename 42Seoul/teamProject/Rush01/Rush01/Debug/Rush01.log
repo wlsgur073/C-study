@@ -1,0 +1,3 @@
+﻿  check.c
+C:\Projects\Rush01_\Rush01\check.c(9,8): warning C4013: 'write' undefined; assuming extern returning int
+  Rush01.vcxproj -> C:\Projects\Rush01_\Debug\Rush01.exe

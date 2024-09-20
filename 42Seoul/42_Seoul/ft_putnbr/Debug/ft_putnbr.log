@@ -1,0 +1,3 @@
+﻿  ft_putnbr.c
+C:\Projects\42_Seoul\ft_putnbr\ft_putnbr.c(17): warning C4716: 'ft_putchar': must return a value
+  ft_putnbr.vcxproj -> C:\Projects\42_Seoul\Debug\ft_putnbr.exe

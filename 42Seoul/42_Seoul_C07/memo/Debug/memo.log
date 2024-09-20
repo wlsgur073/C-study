@@ -1,0 +1,16 @@
+﻿  memo.c
+C:\Projects\42_Seoul_C07\memo\memo.c(27,32): warning C4047: 'function': 'char *' differs in levels of indirection from 'char'
+C:\Projects\42_Seoul_C07\memo\memo.c(27,24): warning C4024: 'checker': different types for formal and actual parameter 2
+C:\Projects\42_Seoul_C07\memo\memo.c(31,33): warning C4047: 'function': 'char *' differs in levels of indirection from 'char'
+C:\Projects\42_Seoul_C07\memo\memo.c(31,25): warning C4024: 'checker': different types for formal and actual parameter 2
+C:\Projects\42_Seoul_C07\memo\memo.c(66,26): warning C4047: 'function': 'char *' differs in levels of indirection from 'char'
+C:\Projects\42_Seoul_C07\memo\memo.c(66,22): warning C4024: 'count_words': different types for formal and actual parameter 1
+C:\Projects\42_Seoul_C07\memo\memo.c(66,36): warning C4047: 'function': 'char *' differs in levels of indirection from 'char'
+C:\Projects\42_Seoul_C07\memo\memo.c(66,28): warning C4024: 'count_words': different types for formal and actual parameter 2
+C:\Projects\42_Seoul_C07\memo\memo.c(72,32): warning C4047: 'function': 'char *' differs in levels of indirection from 'char'
+C:\Projects\42_Seoul_C07\memo\memo.c(72,24): warning C4024: 'checker': different types for formal and actual parameter 2
+C:\Projects\42_Seoul_C07\memo\memo.c(76,33): warning C4047: 'function': 'char *' differs in levels of indirection from 'char'
+C:\Projects\42_Seoul_C07\memo\memo.c(76,25): warning C4024: 'checker': different types for formal and actual parameter 2
+C:\Projects\42_Seoul_C07\memo\memo.c(78,26): warning C4047: 'function': 'char *' differs in levels of indirection from 'char'
+C:\Projects\42_Seoul_C07\memo\memo.c(78,22): warning C4024: 'ft_strdup': different types for formal and actual parameter 1
+  memo.vcxproj -> C:\Projects\42_Seoul_C07\Debug\memo.exe

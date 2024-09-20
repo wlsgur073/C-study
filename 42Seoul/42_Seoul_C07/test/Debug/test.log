@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Projects\42_Seoul_C07\test\test.c(13,9): warning C4013: 'write' undefined; assuming extern returning int
+  test.vcxproj -> C:\Projects\42_Seoul_C07\Debug\test.exe

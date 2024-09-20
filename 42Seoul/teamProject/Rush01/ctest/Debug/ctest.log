@@ -1,0 +1,5 @@
+﻿  ctest.c
+C:\Projects\Rush01_\ctest\ctest.c(7,7): warning C4013: 'write' undefined; assuming extern returning int
+C:\Projects\Rush01_\ctest\ctest.c(69,3): warning C4033: 'ft_print_memory' must return a value
+C:\Projects\Rush01_\ctest\ctest.c(83): warning C4715: 'ft_print_memory': not all control paths return a value
+  ctest.vcxproj -> C:\Projects\Rush01_\Debug\ctest.exe
